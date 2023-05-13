@@ -2,7 +2,8 @@
 
 This repository contains the open-source code for the paper _"Semantic SLAM for mobile robots in dynamic environments based on visual camera sensors"_ by Qi Zhang and Changdi Li, published in the Measurement Science and Technology journal in 2023. You can access the original paper [here](https://dx.doi.org/10.1088/1361-6501/acd1a4).
 
-## video(Save your time to read the whole paper, I show the result in a more informatic and intereting way, like a tiktok short video!):
+## video
+(Save your time to read the whole paper, I show the results in a more informatic and intereting way, like a tiktok short video!):
   ### Chinese：
     b站: https://www.bilibili.com/video/BV1jP411R7S8/?share_source=copy_web&vd_source=12d45e19826de0471391d3db9d6c9491
     微博: https://weibo.com/7348088749/N0fxQaCFQ
