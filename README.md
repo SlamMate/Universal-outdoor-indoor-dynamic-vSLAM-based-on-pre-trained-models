@@ -2,6 +2,16 @@
 
 This repository contains the open-source code for the paper _"Semantic SLAM for mobile robots in dynamic environments based on visual camera sensors"_ by Qi Zhang and Changdi Li, published in the Measurement Science and Technology journal in 2023. You can access the original paper [here](https://dx.doi.org/10.1088/1361-6501/acd1a4).
 
+## video(Save your time to read the whole paper, I show the result in a more informatic and intereting way, like a tiktok short video!):
+  ### Chinese：
+    b站: https://www.bilibili.com/video/BV1jP411R7S8/?share_source=copy_web&vd_source=12d45e19826de0471391d3db9d6c9491
+    微博: https://weibo.com/7348088749/N0fxQaCFQ
+    抖音:  https://v.douyin.com/U89e9po/ 
+    小红书:https://www.xiaohongshu.com/user/profile/630844c0000000001200f745
+  ### English:
+    Youtube: https://youtu.be/9g6-N-uYeno
+    TikTok: https://www.tiktok.com/@zhangqi11/video/7232040785514958107?is_from_webapp=1&sender_device=pc&web_id=7232038248343225883
+
 ## Abstract
 
 Visual simultaneous localization and mapping (vSLAM) is inherently constrained by the static world assumption, which renders success in the presence of dynamic objects rather challenging. In our work, we propose a real-time semantic vSLAM system designed for both indoor and outdoor dynamic environments.
