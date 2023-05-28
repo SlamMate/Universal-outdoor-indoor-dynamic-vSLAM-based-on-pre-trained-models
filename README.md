@@ -55,7 +55,7 @@ pip install torch==1.8.2+cu111 torchvision==0.9.2+cu111 torchaudio===0.8.2 -f ht
 pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html -i http://pypi.douban.com/simple/  --trusted-host pypi.douban.com
 ```
 ### install the TensorRT
-'''
+```
 sudo dpkg -i nv-tensorrt-repo-ubuntu2004-cuda11.6-trt8.4.0.6-ea-20220212_1-1_amd64*
 cd /
 cd ./var
@@ -69,5 +69,5 @@ python3 -m pip install protobuf
 sudo apt-get install uff-converter-tf
 python3 -m pip install numpy onnx
 sudo apt-get install onnx-graphsurgeon
-'''
+```
 ## For Nvidia 30 series graphics cards
