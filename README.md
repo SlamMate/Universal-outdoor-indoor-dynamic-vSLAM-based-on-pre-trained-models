@@ -70,4 +70,5 @@ sudo apt-get install uff-converter-tf
 python3 -m pip install numpy onnx
 sudo apt-get install onnx-graphsurgeon
 ```
-## For Nvidia 30 series graphics cards
+### prepare for ORB-SLAM3
+https://github.com/UZ-SLAMLab/ORB_SLAM3
